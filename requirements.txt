@@ -1,0 +1,5 @@
+flet==0.22.1
+keyboard==0.13.5
+psutil==5.9.8
+pygetwindow==0.0.9
+pystray==0.19.5
