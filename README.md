@@ -1,9 +1,7 @@
-# A myapp Flet app
+# Flexkey
 
-An example of a minimal Flet app.
-
-To run the app:
+アプリケーションごとに個別のキーバインドを設定するソフトです。
 
 ```
-flet run [app_directory]
+
 ```
